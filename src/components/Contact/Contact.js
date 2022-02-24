@@ -1,9 +1,12 @@
 import React from 'react';
+import contact from '../../images/contact-us.png';
 
 const Contact = () => {
     return (
         <div>
-            <p>Contact</p>
+            <div className="container content-center">
+                <img src={contact} alt="" />
+            </div>
         </div>
     );
 };

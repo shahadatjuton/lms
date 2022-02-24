@@ -3,7 +3,9 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <h1>Footer</h1>
+            <div className="footer-container bg-teal-500 h-48">
+
+            </div>
         </div>
     );
 };
